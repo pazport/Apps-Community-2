@@ -16,7 +16,7 @@
         pgrole: 'handbrake'
         intport: '5800'
         extport: '5800'
-        image: 'jlesage/handbrake:dev-latest'
+        image: 'jlesage/handbrake:latest'
 
     # CORE (MANDATORY) ############################################################
     - name: 'Including cron job'
